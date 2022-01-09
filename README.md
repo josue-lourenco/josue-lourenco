@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @josue-lourenco
+- 👋 Hi, I’m @josue-lourenco - "Josué Lourenço Meira Albuquerque"
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning Java programming 
 - 💞️ I’m looking to collaborate on projects
